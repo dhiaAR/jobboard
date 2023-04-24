@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jobs>
+    <job>
+        <title>HR Manager</title>
+        <description>An HR manager with experience in recruiting, talent development, performance management, and employee relations.</description>
+        <skills>
+            <skill>Recruiting</skill>
+            <skill>Talent Development</skill>
+            <skill>Performance Management</skill>
+            <skill>Employee Relations</skill>
+            <skill>Leadership</skill>
+        </skills>
+        <education>
+            <field>Human Resources</field>
+            <field>Business Administration</field>
+        </education>
+        <experience>6</experience>
+        <companies>
+            <company>LinkedIn</company>
+            <company>Oracle</company>
+            <company>Deloitte</company>
+        </companies>
+    </job>
+    <job>
+        <title>Operations Manager</title>
+        <description>An operations manager with experience in logistics, supply chain management, and process improvement.</description>
+        <skills>
+            <skill>Logistics</skill>
+            <skill>Supply Chain Management</skill>
+            <skill>Process Improvement</skill>
+        </skills>
+        <education>
+            <field>Business Administration</field>
+            <field>Operations Management</field>
+        </education>
+        <experience>5</experience>
+        <companies>
+            <company>Amazon</company>
+            <company>UPS</company>
+            <company>DHL</company>
+        </companies>
+    </job>
+
+    <job>
+        <title>Web Developer</title>
+        <description>A full stack web developer with experience in HTML, CSS, and JavaScript.</description>
+        <skills>
+            <skill>HTML</skill>
+            <skill>CSS</skill>
+            <skill>JavaScript</skill>
+        </skills>
+        <education>
+            <field>Computer Science</field>
+            <field>Web Development</field>
+            <field>Mathematics</field>
+        </education>
+        <experience>3</experience>
+        <companies>
+            <company>Google</company>
+            <company>Facebook</company>
+            <company>Amazon</company>
+        </companies>
+    </job>
+    <job>
+        <title>Graphic Designer</title>
+        <description>A graphic designer with experience in Adobe Photoshop and Illustrator.</description>
+        <skills>
+            <skill>Adobe Photoshop</skill>
+            <skill>Adobe Illustrator</skill>
+        </skills>
+        <education>
+            <field>Graphic Design</field>
+            <field>Visual Arts</field>
+        </education>
+        <experience>1</experience>
+        <companies>
+            <company>Apple</company>
+            <company>Microsoft</company>
+            <company>Adobe</company>
+        </companies>
+    </job>
+    <job>
+        <title>Marketing Manager</title>
+        <description>A marketing manager with experience in email marketing and social media advertising.</description>
+        <skills>
+            <skill>Email Marketing</skill>
+            <skill>Social Media Advertising</skill>
+        </skills>
+        <education>
+            <field>Marketing</field>
+            <field>Business Administration</field>
+        </education>
+        <experience>5</experience>
+        <companies>
+            <company>HubSpot</company>
+            <company>Mailchimp</company>
+            <company>Hootsuite</company>
+        </companies>
+    </job>
+    <job>
+        <title>Data Analyst</title>
+        <description>A data analyst with experience in SQL and data visualization.</description>
+        <skills>
+            <skill>SQL</skill>
+            <skill>Data Visualization</skill>
+        </skills>
+        <education>
+            <field>Statistics</field>
+            <field>Mathematics</field>
+            <field>Computer Science</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>IBM</company>
+            <company>Oracle</company>
+            <company>Microsoft</company>
+        </companies>
+    </job>
+    <job>
+        <title>Software Engineer</title>
+        <description>A software engineer with experience in Java and Python.</description>
+        <skills>
+            <skill>Java</skill>
+            <skill>Python</skill>
+        </skills>
+        <education>
+            <field>Computer Science</field>
+            <field>Software Engineering</field>
+        </education>
+        <experience>4</experience>
+        <companies>
+            <company>Google</company>
+            <company>Microsoft</company>
+            <company>Amazon</company>
+        </companies>
+    </job>
+    <job>
+        <title>Social Media Manager</title>
+        <description>A social media manager with experience in Facebook and Twitter.</description>
+        <skills>
+            <skill>Social Media Management</skill>
+            <skill>Content Creation</skill>
+            <skill>Marketing</skill>
+        </skills>
+        <education>
+            <field>Marketing</field>
+            <field>Communications</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>Facebook</company>
+            <company>Twitter</company>
+            <company>Instagram</company>
+        </companies>
+    </job>
+    <job>
+        <title>Front-End Developer</title>
+        <description>A front-end developer with experience in HTML, CSS, and JavaScript.</description>
+        <skills>
+            <skill>HTML</skill>
+            <skill>CSS</skill>
+            <skill>JavaScript</skill>
+            <skill>Responsive Design</skill>
+        </skills>
+        <education>
+            <field>Computer Science</field>
+            <field>Web Development</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>Google</company>
+            <company>Facebook</company>
+            <company>Twitter</company>
+        </companies>
+    </job>
+    <job>
+        <title>Content Writer</title>
+        <description>A content writer with experience in SEO and blogging.</description>
+        <skills>
+            <skill>Content Writing</skill>
+            <skill>SEO</skill>
+            <skill>Blogging</skill>
+        </skills>
+        <education>
+            <field>English</field>
+            <field>Journalism</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>HubSpot</company>
+            <company>Neil Patel Digital</company>
+            <company>Moz</company>
+        </companies>
+    </job>
+    <job>
+        <title>UX Designer</title>
+        <description>A UX designer with experience in Sketch and Adobe XD.</description>
+        <skills>
+            <skill>User Experience Design</skill>
+            <skill>Sketch</skill>
+            <skill>Adobe XD</skill>
+            <skill>Wireframing</skill>
+        </skills>
+        <education>
+            <field>Graphic Design</field>
+            <field>Human-Computer Interaction</field>
+        </education>
+        <experience>3</experience>
+        <companies>
+            <company>Apple</company>
+            <company>Microsoft</company>
+            <company>Amazon</company>
+        </companies>
+    </job>
+    <job>
+        <title>Product Manager</title>
+        <description>A product manager with experience in Agile development and product roadmapping.</description>
+        <skills>
+            <skill>Product Management</skill>
+            <skill>Agile Development</skill>
+            <skill>Product Roadmapping</skill>
+        </skills>
+        <education>
+            <field>Business</field>
+            <field>Product Management</field>
+        </education>
+        <experience>4</experience>
+        <companies>
+            <company>Google</company>
+            <company>Microsoft</company>
+            <company>Amazon</company>
+        </companies>
+    </job>
+    <job>
+        <title>Human Resources Manager</title>
+        <description>A human resources manager with experience in employee relations and talent acquisition.</description>
+        <skills>
+            <skill>Human Resources</skill>
+            <skill>Employee Relations</skill>
+            <skill>Talent Acquisition</skill>
+        </skills>
+        <education>
+            <field>Human Resources</field>
+            <field>Business Administration</field>
+        </education>
+        <experience>5</experience>
+        <companies>
+            <company>Apple</company>
+            <company>Google</company>
+            <company>Facebook</company>
+        </companies>
+    </job>
+    <job>
+        <title>Network Administrator</title>
+        <description>A network administrator with experience in Cisco and Windows Server.</description>
+        <skills>
+            <skill>Cisco</skill>
+            <skill>Windows Server</skill>
+            <skill>Network Administration</skill>
+        </skills>
+        <education>
+            <field>Information Technology</field>
+            <field>Computer Science</field>
+        </education>
+        <experience>3</experience>
+        <companies>
+            <company>IBM</company>
+            <company>Dell</company>
+            <company>HP</company>
+        </companies>
+    </job>
+    <job>
+        <title>Financial Analyst</title>
+        <description>A financial analyst with experience in financial modeling and data analysis.</description>
+        <skills>
+            <skill>Financial Modeling</skill>
+            <skill>Data Analysis</skill>
+            <skill>Accounting</skill>
+        </skills>
+        <education>
+            <field>Finance</field>
+            <field>Accounting</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>Goldman Sachs</company>
+            <company>JPMorgan Chase</company>
+            <company>Citigroup</company>
+        </companies>
+    </job>
+    <job>
+        <title>UI Designer</title>
+        <description>A UI designer with experience in Figma and Adobe XD.</description>
+        <skills>
+            <skill>User Interface Design</skill>
+            <skill>Figma</skill>
+            <skill>Adobe XD</skill>
+            <skill>Prototyping</skill>
+        </skills>
+        <education>
+            <field>Graphic Design</field>
+            <field>Human-Computer Interaction</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>Uber</company>
+            <company>Airbnb</company>
+            <company>Netflix</company>
+        </companies>
+    </job>
+    <job>
+        <title>Data Scientist</title>
+        <description>A data scientist with experience in statistical modeling and machine learning.</description>
+        <skills>
+            <skill>Statistical Modeling</skill>
+            <skill>Machine Learning</skill>
+            <skill>Python</skill>
+            <skill>R</skill>
+        </skills>
+        <education>
+            <field>Data Science</field>
+            <field>Computer Science</field>
+        </education>
+        <experience>3</experience>
+        <companies>
+            <company>Facebook</company>
+            <company>Google</company>
+            <company>Amazon</company>
+        </companies>
+    </job>
+    <job>
+        <title>Account Manager</title>
+        <description>An account manager with experience in sales and customer relationship management.</description>
+        <skills>
+            <skill>Sales</skill>
+            <skill>Customer Relationship Management</skill>
+            <skill>Account Management</skill>
+        </skills>
+        <education>
+            <field>Business Administration</field>
+            <field>Marketing</field>
+        </education>
+        <experience>4</experience>
+        <companies>
+            <company>IBM</company>
+            <company>Oracle</company>
+            <company>Salesforce</company>
+        </companies>
+    </job>
+    <job>
+        <title>Content Marketing Manager</title>
+        <description>A content marketing manager with experience in developing and executing content strategies for different channels, such as social media, email, and blogs.</description>
+        <skills>
+            <skill>Content Strategy</skill>
+            <skill>Social Media Marketing</skill>
+            <skill>Email Marketing</skill>
+            <skill>Copywriting</skill>
+            <skill>SEO</skill>
+        </skills>
+        <education>
+            <field>Marketing</field>
+            <field>Communications</field>
+        </education>
+        <experience>4</experience>
+        <companies>
+            <company>HubSpot</company>
+            <company>Mailchimp</company>
+            <company>Contentful</company>
+        </companies>
+    </job>
+    <job>
+        <title>Registered Nurse</title>
+        <description>A registered nurse with experience in patient care, treatment planning, medication management, and clinical assessments.</description>
+        <skills>
+            <skill>Patient Care</skill>
+            <skill>Treatment Planning</skill>
+            <skill>Medication Management</skill>
+            <skill>Clinical Assessments</skill>
+            <skill>Communication</skill>
+        </skills>
+        <education>
+            <field>Nursing</field>
+            <field>Healthcare</field>
+        </education>
+        <experience>6</experience>
+        <companies>
+            <company>Johns Hopkins Hospital</company>
+            <company>Mayo Clinic</company>
+            <company>Cleveland Clinic</company>
+        </companies>
+    </job>
+
+
+    <job>
+        <title>airline pilot</title>
+        <description>pilot of commercial flights</description>
+        <skills>
+            <skill>ability to fly a320 planes</skill>
+        </skills>
+        <education>
+            <field>pilot certificate</field>
+        </education>
+        <experience>2</experience>
+        <companies>
+            <company>Tunisair</company>
+        </companies>
+    </job>
+</jobs>

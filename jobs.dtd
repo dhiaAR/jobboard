@@ -1,0 +1,13 @@
+<!DOCTYPE jobs [
+    <!ELEMENT jobs (job+)>
+    <!ELEMENT job (title, description, skills, education, experience, companies)>
+    <!ELEMENT title (#PCDATA)>
+    <!ELEMENT description (#PCDATA)>
+    <!ELEMENT skills (skill+)>
+    <!ELEMENT skill (#PCDATA)>
+    <!ELEMENT education (field+)>
+    <!ELEMENT field (#PCDATA)>
+    <!ELEMENT experience (#PCDATA)>
+    <!ELEMENT companies (company+)>
+    <!ELEMENT company (#PCDATA)>
+]>
