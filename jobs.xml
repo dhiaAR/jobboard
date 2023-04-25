@@ -109,7 +109,7 @@
             <field>Mathematics</field>
             <field>Computer Science</field>
         </education>
-        <experience>2</experience>
+        <experience>1</experience>
         <companies>
             <company>IBM</company>
             <company>Oracle</company>
@@ -166,7 +166,7 @@
             <field>Computer Science</field>
             <field>Web Development</field>
         </education>
-        <experience>2</experience>
+        <experience>1</experience>
         <companies>
             <company>Google</company>
             <company>Facebook</company>
@@ -340,7 +340,7 @@
             <field>Business Administration</field>
             <field>Marketing</field>
         </education>
-        <experience>4</experience>
+        <experience>1</experience>
         <companies>
             <company>IBM</company>
             <company>Oracle</company>
@@ -400,9 +400,9 @@
         <education>
             <field>pilot certificate</field>
         </education>
-        <experience>2</experience>
+        <experience>1</experience>
         <companies>
             <company>Tunisair</company>
         </companies>
     </job>
-</jobs>
+<job><title>test jpb</title><description>test job tests stuff</description><skills><skill>tester</skill><skill>python</skill></skills><education><field>UPB</field></education><experience>1</experience><companies><company>Starbucls</company></companies></job></jobs>

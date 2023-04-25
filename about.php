@@ -53,10 +53,8 @@
             <ul class="site-menu js-clone-nav d-none d-xl-block ml-0 pl-0">
               <li><a href="index.php" class="nav-link active">Home</a></li>
               <li><a href="about.php">About</a></li>
-              
-            
               <li><a href="contact.php">Contact</a></li>
-              <li class="d-lg-none"><a href="post-job.php"><span class="mr-2">+</span> Post a Job</a></li>
+              <li class="d-lg-none"><a href="addproposejob.php"><span class="mr-2">+</span> Post a Job</a></li>
               <li class="d-lg-none"><a href="login.php">Log In</a></li>
             </ul>
           </nav>
@@ -260,15 +258,7 @@
           </div>
         </div>
 
-        <div class="row text-center">
-          <div class="col-12">
-            <p class="copyright"><small>
-              <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart text-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>. Downloaded from <a href="https://themeslab.org/" target="_blank">Themeslab</a>
-            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></small></p>
-          </div>
-        </div>
-      </div>
+
     </footer>
   
   </div>

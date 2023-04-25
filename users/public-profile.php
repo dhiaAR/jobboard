@@ -103,7 +103,7 @@
           <li class="job-listing d-block d-sm-flex pb-3 pb-sm-0 align-items-center">
             <a href="<?php echo APPURL; ?>/jobs/job-single.php?id=<?php echo $oneJob->id; ?>"></a>
             <div class="job-listing-logo">
-              <img src="user-images/<?php echo $oneJob->company_image; ?>" alt="Free Website Template by Free-Template.co" class="img-fluid">
+              <img src="user-images/<?php echo $oneJob->company_image; ?>" alt="" class="img-fluid">
             </div>
 
             <div class="job-listing-about d-sm-flex custom-width w-100 justify-content-between mx-4">

@@ -18,6 +18,7 @@
 
 ?>
     <!-- HOME -->
+    
     <section class="home-section section-hero overlay bg-image" style="background-image: url('images/hero_1.jpg');" id="home-section">
 
       <div class="container">
@@ -27,6 +28,7 @@
               <h1 class="text-white font-weight-bold">The Easiest Way To Get Your Dream Job</h1>
               <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est, consequuntur perferendis.</p>
             </div>
+
             <form method="post" action="search.php" class="search-jobs-form">
               <div class="row mb-5">
                 <div class="col-12 col-sm-6 col-md-6 col-lg-3 mb-4 mb-lg-0">
@@ -57,10 +59,11 @@
               </div>
               <div class="row">
                 <div class="col-md-12 popular-keywords">
-                  <h3>Trending Keywords:</h3>
+                  <h3>View Job Listings:</h3>
+                  
                   <ul class="keywords list-unstyled m-0 p-0">
                     <?php foreach($allSearches as $search) : ?>
-                      <li><a href="#" class=""><?php echo $search->keyword; ?></a></li>
+                      <li><a href="listjob.php" class=""><?php echo $search->keyword; ?></a></li>
                     <?php endforeach; ?>
                   </ul>
                 </div>
@@ -76,7 +79,7 @@
 
     </section>
     
-    <section class="py-5 bg-image overlay-primary fixed overlay" id="next" style="background-image: url('images/hero_1.jpg');">
+    <!-- <section class="py-5 bg-image overlay-primary fixed overlay" id="next" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
         <div class="row mb-5 justify-content-center">
           <div class="col-md-7 text-center">
@@ -117,7 +120,9 @@
             
         </div>
       </div>
-    </section>
+    </section> -->
+
+    
 
     
 
@@ -166,7 +171,7 @@
       </div>
     </section>
 
-    <section class="py-5 bg-image overlay-primary fixed overlay" style="background-image: url('images/hero_1.jpg');">
+    <!-- <section class="py-5 bg-image overlay-primary fixed overlay" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
         <div class="row align-items-center">
           <div class="col-md-8">
@@ -178,10 +183,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     
-    <section class="site-section py-4">
+    <!-- <section class="site-section py-4">
       <div class="container">
   
         <div class="row align-items-center">
@@ -221,10 +226,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
 
-    <section class="bg-light pt-5 testimony-full">
+    <!-- <section class="bg-light pt-5 testimony-full">
         
         <div class="owl-carousel single-carousel">
 
@@ -259,7 +264,7 @@
 
       </div>
 
-    </section>
+    </section> -->
 
     <section class="pt-5 bg-image overlay-primary fixed overlay" style="background-image: url('images/hero_1.jpg');">
       <div class="container">
@@ -273,10 +278,12 @@
             </p>
           </div>
           <div class="col-md-6 ml-auto align-self-end">
-            <img src="images/apps.png" alt="Free Website Template by Free-Template.co" class="img-fluid">
+            <img src="images/apps.png" alt="" class="img-fluid">
           </div>
         </div>
       </div>
     </section>
+
+    
     
 <?php require "includes/footer.php"; ?>

@@ -57,7 +57,7 @@
                 <div class="job-listing-logo">
                   
                   <a style="text-decoration: none;" target="_blank" class="" href="<?php echo APPURL; ?>/jobs/job-single.php?id=<?php echo $jobApp->job_id; ?>">
-                    <img style="widht:100px; height: 100px" src="user-images/<?php echo $_SESSION['image']; ?>" alt="Free Website Template by Free-Template.co" class="img-fluid">
+                    <img style="widht:100px; height: 100px" src="user-images/<?php echo $_SESSION['image']; ?>" alt="" class="img-fluid">
                   </a>
                 </div>
 
